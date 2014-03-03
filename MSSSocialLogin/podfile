@@ -1,0 +1,7 @@
+pod 'SBJson', '~> 4.0.0'
+pod 'AFNetworking', '~>1.3.3'
+pod "AFLinkedInOAuth1Client"
+pod 'AFOAuth1Client'
+pod 'LVTwitterOAuthClient'
+pod 'TMTumblrSDK/APIClient'
+

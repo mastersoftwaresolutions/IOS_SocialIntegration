@@ -1,0 +1,41 @@
+PODS:
+  - AFLinkedInOAuth1Client (0.0.3):
+    - AFOAuth1Client (~> 0.2.0)
+  - AFNetworking (1.3.3)
+  - AFOAuth1Client (0.2.1):
+    - AFNetworking (~> 1.3)
+  - JXHTTP (1.0.0)
+  - LVTwitterOAuthClient (0.0.1):
+    - OAuthCore
+  - NSData+Base64 (1.0.0)
+  - OAuthCore (0.0.1):
+    - NSData+Base64
+  - SBJson (4.0.0)
+  - TMTumblrSDK/APIClient (1.0.6):
+    - JXHTTP (= 1.0.0)
+    - TMTumblrSDK/APIClient/Authentication
+  - TMTumblrSDK/APIClient/Authentication (1.0.6):
+    - JXHTTP (= 1.0.0)
+    - TMTumblrSDK/Core
+  - TMTumblrSDK/Core (1.0.6)
+
+DEPENDENCIES:
+  - AFLinkedInOAuth1Client
+  - AFNetworking (~> 1.3.3)
+  - AFOAuth1Client
+  - LVTwitterOAuthClient
+  - SBJson (~> 4.0.0)
+  - TMTumblrSDK/APIClient
+
+SPEC CHECKSUMS:
+  AFLinkedInOAuth1Client: a4e9d7af2a93668be256a01d86505693a79f601e
+  AFNetworking: 61fdd49e2ffe6380378df37b3b6e70630bb9dd66
+  AFOAuth1Client: dcde161501da2c20e6822ee26ce2b4f73f04818d
+  JXHTTP: 04f027e55c252d206cf3fcc2a2bde3914a35d842
+  LVTwitterOAuthClient: 957ed405dd84fb5e0a83d696db61c9a710d9c931
+  NSData+Base64: 4819562faee4544e3cf5703f2139820b09732b28
+  OAuthCore: 4164eec5e28c68f794953446e68f91054ffe570c
+  SBJson: f3c686806e8e36ab89e020189ac582ba26ec4220
+  TMTumblrSDK: cc16af8cfc8124926ab202455c1a6c87ff8725b3
+
+COCOAPODS: 0.29.0
